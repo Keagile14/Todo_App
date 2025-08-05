@@ -15,6 +15,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 @NoArgsConstructor
 @Builder
 
+
+
 public class TodoEntity {
 
     @Id
